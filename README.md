@@ -1,14 +1,14 @@
 # BurningWheelFAQ
 
-[I. The Basics](I. The Basics.md)
+[I. The Basics](TheBasics.md)
 
-[II. Gameplay Logistics](II. Gameplay Logistics.md)
+[II. Gameplay Logistics](GameplayLogistics.md)
 
-[III. Gameplay Advice](III. Gameplay Advice.md)
+[III. Gameplay Advice](GameplayAdvice.md)
 
-[IV. Rules Clarifications](IV. Rules Clarifications.md)
+[IV. Rules Clarifications](RulesClarifications.md)
 
-[V. & VI. Original Content Conversions and Alternative Rules](V. & VI. Original Content Conversions and Alternative Rules.md)
+[V. & VI. Original Content Conversions and Alternative Rules](OriginalContentConversionsandAlternativeRules.md)
 
-[VII. Resources](VII. Resources.md)
+[VII. Resources](Resources.md)
 
