@@ -4,7 +4,7 @@
 ## A. What’s the best way to introduce a new player to Burning Wheel?
 
 
-The best way to introduce a new player to Burning Wheel is by running them through a pre-written scenario for the game as a demo. The standbys are [The Sword](https://www.burningwheel.com/store/index.php/free-pdfs/the-sword-demo-adventure.html) and [Trouble in Hochen](https://www.burningwheel.com/store/index.php/twilight-in-the-duchy-verdorben.html). The Sword is somewhat PvP-focused, however, and Trouble in Hochen is generally considered to be the superior (though not perfect) adventure for this purpose.
+The best way to introduce a new player to Burning Wheel is by running them through a pre-written scenario for the game as a demo. The standbys are [The Sword](https://www.burningwheel.com/the-sword-demo-adventure/) and [Trouble in Hochen](https://www.burningwheel.com/twilight-in-the-duchy-verdorben/). The Sword is somewhat PvP-focused, however, and Trouble in Hochen is generally considered to be the superior (though not perfect) adventure for this purpose.
 
 Once a player has found that they are interested in playing Burning Wheel on a more long-term basis, it is essential to have them read the Hub & Spokes. The Rim is best avoided by new players until they grasp the core mechanics. Try to limit the game to just the basic rules at first, and then introduce the more advanced sub-systems one-by-one.
 
