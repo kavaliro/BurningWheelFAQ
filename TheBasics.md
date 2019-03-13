@@ -1,9 +1,9 @@
-#[See this thread first](https://www.reddit.com/r/BurningWheel/comments/4f0gob/rburningwheels_burning_wheel_guide_first_draft/)
+# [See this thread first](https://www.reddit.com/r/BurningWheel/comments/4f0gob/rburningwheels_burning_wheel_guide_first_draft/)
 
-#The Basics
+# The Basics
 
 
-##A. What is Burning Wheel, and why should I play it?
+## A. What is Burning Wheel, and why should I play it?
 
 
 Straight from the Burning Wheel wiki:
@@ -14,7 +14,7 @@ Starting with a simple d6 die pool mechanic, this game intuitively builds on its
 
 Burning Wheel is a tabletop roleplaying game that prioritizes narrative, dramatic conflict, character arcs, and player authorship over more traditional tabletop RPG tropes and mechanics. Burning Wheel is an engine for telling cool stories. Every aspect of the system is geared towards creating a compelling, dynamic, player-driven narrative wrapped in a game that pushes players to engage with the conflicts that drive that narrative. In Burning Wheel, you fight for your beliefs.
 
-##B. What is the setting for Burning Wheel?
+## B. What is the setting for Burning Wheel?
 
 Burning Wheel has no official setting and is intended to be applied to original settings created by those playing the game. The material included with Burning Wheel Gold has the flavor of 13th Century France or Tolkien’s Middle Earth. But these are rough comparisons at best, and the material is meant to a source from which to draw and build your own worlds. There are also several alternate settings available for the game from Burning Wheel HQ:
 
@@ -22,11 +22,11 @@ Burning Wheel has no official setting and is intended to be applied to original 
 
 *Burning Sands: Jihad* is a setting inspired by Dune and similar sci-fi literature. This is available for free [on the Burning Wheel Wiki](https://www.burningwheel.com/wiki/index.php?title=File:Jihad.pdf).
 
-##C. What are the basic mechanics of Burning Wheel?
+## C. What are the basic mechanics of Burning Wheel?
 
 [The Hub & Spokes](https://www.burningwheel.com/store/index.php/free-pdfs/burning-wheel-gold-hub-and-spokes.html) explain the basic mechanics used to play Burning Wheel. This is a summary of those mechanics:
 
-###Tests
+### Tests
 
 “Test” is Burning Wheel lingo for a dice roll used to determine an outcome. Tests are part of the Intent and Task mechanic described below. When you test in Burning Wheel, you’re rolling your dice pool to achieve a number of successes equal to or greater than the number needed to achieve the thing you want to happen--e.g. To win the fight! Your dice pool is a combination of the character's level in a skill, called the Exponent, plus advantages and modifiers. The number of necessary successes is called the Obstacle, which is the base number of successes needed (usually set by the GM), plus any disadvantages. If the number of successes you roll with your dice pool is equal to or greater than the Obstacle for the test, then you succeed; if not, then you fail. A die is a success if it meets or exceeds the difficulty number, which is most often 4. Dice that aren’t successes are called “traitors."
 
@@ -42,7 +42,7 @@ There are four types of tests in Burning Wheel:
 **Linked Tests**: Multiple, related tests in a row help or hinder one another
 
 
-###Intent and Task
+### Intent and Task
 
 
 Intent and Task is the mechanic for resolving actions in Burning Wheel. It’s the core of the game. Players act in Burning Wheel by narrating an Intent that describes something they want to happen in the story, and then they describe the Task their character will engage in to achieve this Intent.
@@ -71,21 +71,21 @@ Player: “That sounds fair. I’ll roll.”
 The obstacle is then set, the roll is made, the outcome is described, and the story progresses to the next Intent and Task.
 
 
-###Beliefs
+### Beliefs
 
 In Burning Wheel, each character has three Beliefs, which serve three purposes: to characterize, to describe goals for the character, and to state how the player wants to be rewarded for playing the character. Beliefs are are a type of player priority for the game--they tell the GM what the game should be about. Beliefs direct the GM in how to shape and steer the game’s events and when to call for tests.
 
 For example, if a character has the Belief “Mr. Frodo cannot make this journey alone. I will do what I must to keep him safe,” then it is the GM’s job to create situations in the game that force the player to make decisions, take actions, and engage in tests that compel the character to keep Mr. Frodo safe until this Belief has been satisfactorily explored. The player has told the GM through this Belief that keeping Mr. Frodo safe is important to the character and interesting to the player. In this way, the player defines the focus and direction of a game and is rewarded (with Artha) for engaging with the narrative through the system’s mechanics.
 
 
-###Instincts
+### Instincts
 
 Instincts, like Beliefs, are player priorities for the game. Instincts, however, describe how a character acts, rather who a character is or what they want. Instincts define a condition and reaction in which a character’s actions are to be assumed. Every character has up to three Instincts chosen by the player. Instincts are best phrased as “Always,” “Never,” or “If/Then” statements. For example, “Always catch objects thrown at me.” “Never drink something I didn’t pour myself.”
 
 The condition and reaction that an Instinct defines occurs whether it is explicitly stated to have done so or not. If an object is thrown at the character with the Instinct above, the character will have always have a chance to test to catch the thrown object, even if this test must be made retroactively. In this way, Instincts allow the player to create mechanical assurances for certain character behaviors in-game. These assurances hold even to the point of circumventing the game’s mechanics. If a character’s Instinct is “Always have an arrow nocked,” then if they were to engage with the Fight! (advanced combat) mechanics, they would be able to fire their bow in two actions instead of the usual seven, for example (It takes five actions to nock an arrow).
 
 
-###Traits
+### Traits
 
 Traits define a character’s most prominent aspects. They state what makes a character different from his peers. There are three types of traits, each with unique mechanics:
 
@@ -115,7 +115,7 @@ Call-on traits reflect a particular edge that a character has over others. Call-
 A character’s traits change over the course of a game via the Trait Vote mechanic, which allows traits to be added or removed from a character’s sheet according to how that character has been played during the game.
 
 
-###Artha
+### Artha
 
 In Burning Wheel, players are rewarded for engaging the system with their Beliefs, Instincts, and Traits and by roleplaying the drama and conflict that arises during the game with points called “Artha.” There are three types of Artha: Fate, Persona, and Deeds. Each has particular effects when spent in the game, and each is earned in different ways.
 
@@ -139,7 +139,7 @@ Artha is intimately tied to advancement via the Epiphany mechanic. Over many ses
 Artha points are usually awarded at the end of each session of play. In this way, Beliefs, Instincts, and Traits are tied directly into the economy of the game’s dice mechanics and character advancement.
 
 
-###Advancement
+### Advancement
 
 In Burning Wheel, character advancement involves increasing a character’s individual stats, attributes, and skills. There are no levels, and there is no XP. Whenever a test is made, pass or fail, that test counts towards advancing the ability (stat, attribute, or skill) rolled for the test. The only exceptions to this rule are Perception, Resources, and Faith, which require successful tests.
 
@@ -148,11 +148,11 @@ Tests are rated according to three levels of difficulty: routine, difficult, and
 So, by engaging a character’s Beliefs and Instincts through the Intent and Task mechanic, player are able to advance their character every time they roll the dice.
 
 
-###The Game
+### The Game
 
 Together, these elements form the core mechanics of Burning Wheel. Players look to their Beliefs, Instincts, and Traits to form Intents and Tasks to make tests that help them advance their characters’ skills, attributes, and stats while driving the narrative forward. They are rewarded with Artha, which, along with advancing their abilities, helps them succeed in future tests. And so the game progresses.
 
-##D. What do I need to play Burning Wheel?
+## D. What do I need to play Burning Wheel?
 
 Burning Wheel is currently in its third iteration: Burning Wheel Gold, which was published in 2011. Burning Wheel Gold was preceded by Burning Wheel Classic and Burning Wheel Revised. At present, the only thing necessary to play Burning Wheel--other than dice and people--is the Hub & Spokes, which is available for free as a [PDF from the Burning Wheel Store](https://www.burningwheel.com/store/index.php/free-pdfs/burning-wheel-gold-hub-and-spokes.html). 
 
@@ -163,15 +163,15 @@ Although the game can be played with just the Hub & Spokes, the additional syste
 Also, parts of the supplements from Burning Wheel Revised--The Monster Burner, The Magic Burner, and The Adventure Burner--are currently being condensed and collected into the Burning Wheel Codex after a successful Kickstarter campaign that ended in February 2016. These supplements contain content that expands Burning Wheel’s magic systems, stocks, and other aspects of the game. They also include the Commentary, which is a text that explains the system, how to run and play it, and the philosophy behind it in greater detail than what is found in Gold. The Codex is currently slated for release in August 2016 along with the fifth printing of Burning Wheel Gold.
 
 
-##E. Where can I buy Burning Wheel and its supplemental content?
+## E. Where can I buy Burning Wheel and its supplemental content?
 
 Burning Wheel Gold can be found online in [the Burning Wheel Store](https://www.burningwheel.com/store/index.php/burning-wheel-gold.html) and on [Amazon](http://www.amazon.com/s/ref=nb_sb_noss/180-3884242-1459302?url=search-alias%3Daps&field-keywords=burning+wheel) and Ebay through third-party sellers. Burning Wheel is not available as a PDF. Your local game store may or may not carry it. If you’re not in North America, finding the book may be difficult. Here are a few options for you
 
-###Germany
+### Germany
 
 [Sphaerenmeisters](http://www.sphaerenmeisters-spiele.de/epages/15455106.sf/en_GB/?ViewObjectID=108289329)
 
-###UK
+### UK
 
 [Leisure Games](http://www.leisuregames.com/acatalog/Burning_Wheel_Gold_Edition.html)
 
@@ -180,7 +180,7 @@ Burning Wheel Gold can be found online in [the Burning Wheel Store](https://www.
 Burning Wheel Revised, Burning Wheel Classic, and their supplements are no longer in print and will not be reprinted. They can only be purchased via third-party sellers. If you want to purchase them, Ebay, Amazon, and private sellers are your best bet. The prices for these books are usually quite high compared to the list price, however.
 
 
-##F. What are some basic resources I should be aware of as a new player?
+## F. What are some basic resources I should be aware of as a new player?
 
 
 [Charred](https://charred.herokuapp.com/#/) is an online tool for character burning (character creation) that helps simplify and streamline this process immensely.
