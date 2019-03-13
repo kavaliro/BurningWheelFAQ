@@ -1,5 +1,3 @@
-# [See this thread first](https://www.reddit.com/r/BurningWheel/comments/4f0gob/rburningwheels_burning_wheel_guide_first_draft/)
-
 # Gameplay Logistics
 
 
